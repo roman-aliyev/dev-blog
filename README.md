@@ -5,6 +5,8 @@ Dev notes by Roman Aliyev (mostly about ios development).
 
 ## Latest posts
 
+[Replacing the default touch bar UI with custom implementation](posts/20210108.md)
+
 [Another way of performance testing](posts/20200705.md)
 
 [Shake animation with CAKeyframeAnimation](posts/20200704.md)
