@@ -5,6 +5,8 @@ Dev notes by Roman Aliyev (mostly about ios development).
 
 ## Latest posts
 
+[Sure way to present view controller](posts/20210619.md)
+
 [Replacing the default touch bar UI with custom implementation](posts/20210108.md)
 
 [Another way of performance testing](posts/20200705.md)
